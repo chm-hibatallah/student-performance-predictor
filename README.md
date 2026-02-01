@@ -31,10 +31,7 @@ A complete end-to-end Machine Learning project that predicts student math scores
 - [Technologies Used](#-technologies-used)
 - [Key Features](#-key-features)
 - [Future Improvements](#-future-improvements)
-- [Contributing](#-contributing)
-- [License](#-license)
-
----
+--
 
 ## 🎯 Problem Statement
 
@@ -732,39 +729,11 @@ except Exception as e:
 
 ---
 
-## 🤝 Contributing
 
-Contributions are welcome! Here's how you can help:
-
-### How to Contribute:
-
-1. **Fork the repository**
-2. **Create a feature branch**
-   ```bash
-   git checkout -b feature/AmazingFeature
-   ```
-3. **Commit your changes**
-   ```bash
-   git commit -m 'Add some AmazingFeature'
-   ```
-4. **Push to the branch**
-   ```bash
-   git push origin feature/AmazingFeature
-   ```
-5. **Open a Pull Request**
-
-### Contribution Guidelines:
-- Follow PEP 8 style guide
-- Add tests for new features
-- Update documentation
-- Ensure all tests pass
-- Write clear commit messages
-
----
 
 ## 📞 Contact
 
-**Project Author**: Chm Hibatallah
+**Project Author**: Chmicha Hibat allah
 
 - **GitHub**: [@chm-hibatallah](https://github.com/chm-hibatallah)
 <<<<<<< HEAD
@@ -776,20 +745,6 @@ Contributions are welcome! Here's how you can help:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙏 Acknowledgments
-
-- **Dataset**: [Kaggle - Students Performance in Exams](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams)
-- **Flask Documentation**: [Flask Official Docs](https://flask.palletsprojects.com/)
-- **scikit-learn**: [scikit-learn Documentation](https://scikit-learn.org/)
-- **Render**: [Render Documentation](https://render.com/docs)
-
----
 
 ## 📊 Project Statistics
 
@@ -815,19 +770,6 @@ This project demonstrates proficiency in:
 
 ---
 
-## ⭐ Show Your Support
-
-If you found this project helpful, please consider:
-- Giving it a ⭐ on GitHub
-- Sharing it with others
-- Contributing to improvements
-- Providing feedback
-
----
-
-<div align="center">
-
-**Built with ❤️ using Python and Flask**
 
 **[⬆ Back to Top](#-student-exam-performance-predictor)**
 
